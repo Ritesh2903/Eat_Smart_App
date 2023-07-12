@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "310957792050",
+    "project_id": "eatsmart-60280",
+    "storage_bucket": "eatsmart-60280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310957792050:android:e73bd6a8fd5a7c1bdf952b",
+        "android_client_info": {
+          "package_name": "com.example.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310957792050-3ag1eic6h05cfi2691pqa0ka85lgq65s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grocery",
+            "certificate_hash": "637a3adf8703584354de2e8ca15f8876f7a1f256"
+          }
+        },
+        {
+          "client_id": "310957792050-4qkevjoolv4t6cqmbdrdoeknnfb4m52k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChsB-pMNPr-jXc_UhMldsP_6pRsDFjQyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310957792050-4qkevjoolv4t6cqmbdrdoeknnfb4m52k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
